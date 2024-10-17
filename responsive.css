@@ -1,0 +1,247 @@
+.navbar-image {
+    height: 60px;
+    width: 60px;
+}
+#navbar1 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: black;
+}
+#navbar2 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: black;
+}
+#navbar3 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: black;
+}
+#navbar4 {
+    font-size: 18px;
+    font-family: "Roboto";
+    color: black;
+}
+.navbar-color {
+    color: white;
+    background-color: bisque;
+}
+.main-bg {
+    background-image: url("https://png.pngtree.com/background/20230610/original/pngtree-an-assortment-of-fruit-and-food-spread-in-plates-picture-image_3054630.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.main-heading {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: white;
+    
+    text-decoration: underline;
+}
+.main-para {
+    font-size: 25px;
+    
+    font-family: "Roboto";
+    color: white;
+    
+}
+.butt1 {
+    height: 40px;
+    width: 130px;
+    color: white;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 10px;
+}  
+.butt2 {
+    height: 40px;
+    width: 130px;
+    background-color: transparent;
+    font-family: "Roboto";
+    font-size: 18px;
+    border-radius: 10px;
+    color: orange;
+    border-style: solid;
+    border-color: orange;
+}
+.wcu-section {
+    background-color: lightgoldenrodyellow;
+}  
+.wcu-heading {
+    font-size: 30px;
+    
+}
+.wcu-para {
+    font-size: 16px;
+    
+    color: rgb(132, 125, 125);
+}
+.wcu-card {
+    background-color: aliceblue;
+}
+.wcu-image {
+    height: 80px;
+    width: 80px;
+}
+.wcu-card-heading {
+    font-size: 20px;
+    color: orange;
+    font-family: "Lobster";
+}
+.wcu-span {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+}
+.explore-section {
+    background-color: lightgoldenrodyellow;
+}
+.explore-heading {
+    color: rgb(60, 58, 58);
+    font-size: 30px;
+    font-weight: bold;
+}
+.explore-card{
+    background-color: aliceblue;
+    border-radius: 16px;
+}
+.explore-images {
+   
+    border-radius: 20px;
+}
+.explore-sub-heading {
+    color: black;
+    font-size: 22px;
+   
+    
+
+}
+.explore-link {
+    color: orange;
+    font-size: 18px;
+    text-align: left;
+}
+.healthy-page-image {
+    height: 300px;
+    width: 300px;
+}
+.healthy-page-heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+}
+.healthy-page-para {
+    font-size: 18px;
+    
+    color: gray;
+}
+.healthy-page-butt {
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    border-radius: 5px;
+}
+.offer-image {
+    height: 160px;
+    width: 250px;
+}
+.offer-heading {
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    
+}
+.offer-para {
+    font-size: 15px;
+    
+    color: gray;
+    
+}
+.logos {
+    height: 40px;
+    width: 70px;
+    margin: 10px;
+}
+.gift-image {
+    height: 190px;
+    width: 220px;
+}
+.heading-modal-title {
+    color: #C44E4C;
+    font-size: 22px;
+    font-weight: bold;
+}
+.modal-image {
+    height: 300px;
+    width: 460px;
+}
+.modal-butt {
+    background-color: transparent;
+    font-size: 15px;
+    height: 40px;
+    width: 120px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: gray;
+
+}
+.final-bg {
+    background-color: lightgoldenrodyellow;
+}
+.icons-bg {
+  background-color:lightgoldenrodyellow;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.bg-blue {
+    background-color: darkcyan;
+    background-size: cover;
+}
+.navbar-para {
+    color: orange;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Caveat";
+}
+.last-page {
+  background-color:white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.last-page-image {
+    height: 90px;
+    width: 90px;
+}
+.last-para {
+    color: orange;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.last-heading {
+    color: lightgray;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+.last-para2 {
+    color: lightgray;
+    font-size: 20px;
+    font-family: "Roboto";
+}
